@@ -1,0 +1,34 @@
+{
+  "trends": [
+    {
+      "location": "Trending in Turkey",
+      "name": "Technology",
+      "url": "https://twitter.com/search?q=Technology",
+      "tweet_volume": 25000
+    },
+    {
+      "location": "Sports · Trending",
+      "name": "Sports",
+      "url": "https://twitter.com/search?q=Sports",
+      "tweet_volume": 18000
+    },
+    {
+      "location": "Music · Trending",
+      "name": "Music",
+      "url": "https://twitter.com/search?q=Music",
+      "tweet_volume": 15000
+    },
+    {
+      "location": "Trending in Turkey",
+      "name": "Fashion",
+      "url": "https://twitter.com/search?q=Fashion",
+      "tweet_volume": 12000
+    },
+    {
+      "location": "Food · Trending",
+      "name": "Food",
+      "url": "https://twitter.com/search?q=Food",
+      "tweet_volume": 10000
+    }
+  ]
+}
